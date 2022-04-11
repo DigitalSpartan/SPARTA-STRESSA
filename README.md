@@ -8,7 +8,7 @@ Allows the user to stress individual ipv4 addresses or html websites. This is fo
 
 After installation, perform the following:
 
-1) Run the .exe file
+1) Run the "SPARTA_STRESSA.exe" file
 2) Select the targetted ip adress / web adress.
 3) Press "TARGET"
 4) Select on the drop down box whether you would like to perform the attack using udp/tcp for ip's, and html for web adresses.
