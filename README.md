@@ -1,5 +1,6 @@
 # SPARTA-STRESSA
 ## NOTICE ##
+--TO INSTALL THE FILES "CODE" AND CLICK "DOWNLOAD ZIP"
 --Windows may initially flag the program as a threat. To get around this; 
 simply double click the notification> click the file name > click allow on device > click start actions
 
